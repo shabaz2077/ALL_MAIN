@@ -1,0 +1,206 @@
+Availability
+Complete availability in working hours.
+Critical comments necessary for 4 (Good Job!) & above ratings
+Status
+Not started
+Weight
+20 %
+Employee Rating
+You're There!
+Rating
+Employee Comments
+Employee Comments
+Always fully available on time and beyond working hours. always worked beyond working hours when needed to complete tasks/projects and Completed tasks assigned to me in a complete manner within the given time frame for the tasks with maintained quality.
+
+
+
+Words: 40
+Characters (with HTML): 260
+Expand
+Show Additional Info
+Project Delivery
+Ensuring the project delivery on time with quality output.
+Critical comments necessary for 4 (Good Job!) & above ratings
+Status
+Not started
+Weight
+20 %
+Employee Rating
+Good Job!
+Rating
+Employee Comments
+Employee Comments
+Always completed tasks/projects assigned to me in a complete manner within the given time frame for the tasks with maintained quality.
+
+
+
+Words: 21
+Characters (with HTML): 141
+Expand
+Show Additional Info
+Quality in Delivery
+Ensure proper design patterns are used and quality of the delivery is maintained.
+Critical comments necessary for 4 (Good Job!) & above ratings
+Status
+Not started
+Weight
+20 %
+Employee Rating
+Good Job!
+Rating
+Employee Comments
+Employee Comments
+Always ensured proper delivery standards were maintained and best practices were used to complete the tasks assigned to me. Ensuring the quality of delivery is achieved. Done assigned tasks to me in a complete manner within the given time frame for the tasks with maintained quality.
+
+
+
+Words: 46
+Characters (with HTML): 290
+Expand
+Show Additional Info
+Timely Delivery
+Ensure in time delivery of the tasks/ project assigned.
+Critical comments necessary for 4 (Good Job!) & above ratings
+Status
+Not started
+Weight
+20 %
+Employee Rating
+Good Job!
+Rating
+Employee Comments
+Employee Comments
+Always have completed the tasks/projects/modules on time and before, have not missed a deadline for the tasks and completed tasks assigned to me in a complete manner within the given time frame for the tasks with maintained quality within the given timeline.
+
+
+
+Words: 42
+Characters (with HTML): 265
+Expand
+Show Additional Info
+[Google DU3-Dev] x no. of Certifications (individual/influenced)
+Self-certification Professional Machine Learning Engineer to be completed.
+Critical comments necessary for 4 (Good Job!) & above ratings
+Status
+Not started
+Weight
+20 %
+Employee Rating
+You're There!
+Rating
+Employee Comments
+Employee Comments
+Timely progressing to complete the Professional Machine Learning Engineer certification, completed all of the modules accordingly and will schedule the exam soon. GEN-AI for practitioners has been completed.
+
+
+
+Words: 28
+Characters (with HTML): 214
+ ----------------------************************-------------------------------------------
+
+
+Evaluate Topic Development Goals
+
+Save and Close
+Cancel
+Shabaz Shiralkar
+Rate and Comment
+
+Evaluate the included development goals.
+Sort By	
+Last Updated-Latest to Oldest
+Problem solving and technical skills
+Coming up with the innovative solutions for the problems and timely upgrading the technical skills.
+Employee Comments
+Employee Comments
+Coming up with innovative solutions for the problems and timely upgrading the technical skills.
+
+Words: 14
+Characters (with HTML): 102
+Expand
+Show Additional Info
+Innovation and self-development
+Initiating skill development or upskilling by learning new technologies that are meta and provide new ideas and suggestions proactively.
+Employee Comments
+Employee Comments
+Initiating skill development or upskilling ourselves by learning new technologies and tools that we may require.
+
+Words: 16
+Characters (with HTML): 119
+Expand
+Show Additional Info
+Team Orientation
+Work with team members and work cohesively in the project.
+Employee Comments
+Employee Comments
+Work with other team members or other teams as well when required and work cohesively on the projects or assignments.
+
+Words: 20
+Characters (with HTML): 124
+Expand
+Show Additional Info
+Assignments
+Completing the assignments/Tasks given before the deadline exceeds.
+Employee Comments
+Employee Comments
+Completing the assignments and tasks given before the deadline exceeds.
+
+Words: 10
+Characters (with HTML): 78
+Expand
+Show Additional Info
+Learning
+Learning PySpark, SQL Data Modelling and Machine Learning.
+Employee Comments
+Employee Comments
+Learning PySpark, SQL, Data Modelling, GEN-AI for proficients, prompt Engineering and Machine Learning.
+
+Words: 13
+Characters (with HTML): 110
+Expand
+Show Additional Info
+ -------------------------------------------?*************************************___________________________------------
+
+
+My Questionnaire
+Collapse
+Org Goals
+Core values are what support the vision, shape the culture & reflect what the company values. They're the essence of our identity - the principles, beliefs & philosophy; that help us in the decision-making process. Our core values are:
+
+Confident- We meet every challenge with respect & confidence. We trust in our abilities & the difference we can make. We also understand the complexities of modern technology well enough to always keep learning. Every accomplishment & customer success adds to our ability & growth. They deserve to be talked about.
+
+Responsible- With our customers' & colleagues' best interests at heart, we act responsibly & communicate with clarity. Our global practice demands respect & openness towards each other, the communities around us & global society at large. We take seriously the trust placed in us & work hard to earn it every day. We never make a promise that we cannot keep.
+
+Persistent- In the face of complexity & rapid change, we are determined to help our customers & our people around the world succeed. The road to joint success may be long but we’re persistent where our competitors falter. Our optimism is infectious & helps customers trust in our abilities. Together we build momentum towards our shared goals.
+
+Ingenious - We always want to be first to transform new ideas into tangible business results while optimizing our use of resources. We're versatile in action & agile in thought because we believe it's important to do more with less. For us, ingenious solution is ultimate goal.
+*		1. Imbibing Core Organization Values
+Yes
+1. Imbibing Core Organization Values	
+*		Comments for Org Goal 1
+We strive to meet every challenge with confident responsibility, persistently pursuing ingenious solutions that drive our collective success.
+Comments for Org Goal 1
+*		2. Has been a Brand Ambassador for Persistent through any one of the following
+None
+2. Has been a Brand Ambassador for Persistent through any one of the following	
+*		Comments for Org Goal 2
+N.A.
+------------------------------------------------**************************************---------------------------------------
+
+
+
+Overall Summary
+	
+Save
+Cancel
+Employee Comments
+Employee Comments
+Learning Pyspark, machine learning, Data Modelling, Prompt Engineering.
+Working on completing a Professional Machine Learning certification module and soon will schedule the exam.
+Practicing hands-on Python, and SQL on LeetCode.
+Exploring AWS and Azure cloud fundamentals and services.
+Explored learning some parts of the application, and deployment of an application on the cloud-based environment (Google APP Engine) in Django, while working on the GEN-AI practitioner course.
+Completed GEN AI BEGINNERS and PRACTITIONER
+
+Words: 72
+Characters (with HTML): 580
